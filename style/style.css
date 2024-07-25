@@ -1,3 +1,15 @@
-color {
-    color: darkgreen
+.color {
+    color: red
+}
+
+p {
+    color: aqua;
+}
+
+.p1 {
+    color: rgb(15, 128, 226);
+}
+
+.button-color {
+    background-color: green;
 }
